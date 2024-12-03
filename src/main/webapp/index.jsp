@@ -21,7 +21,7 @@
 </head>
 <body>
     <h1>shoaib</h1>
-    <h1>smd mansoor</h1>
+    <h1>s mansoor</h1>
     <p>this is sample page for deploying in tomcat server</p>
     <p>mansoor</p>
     <p>mansoor</p>
